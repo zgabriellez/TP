@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Imagens/1.png</file>
+        <file>Imagens/2.png</file>
+        <file>Imagens/3.png</file>
+        <file>Imagens/4.png</file>
+        <file>Imagens/5.png</file>
+        <file>Imagens/6.png</file>
+        <file>Imagens/7.png</file>
+        <file>Imagens/8.png</file>
+        <file>Imagens/9.png</file>
+        <file>Imagens/10.png</file>
+        <file>Imagens/11.png</file>
+        <file>Imagens/12.png</file>
+        <file>Imagens/13.png</file>
+        <file>Imagens/14.png</file>
+        <file>Imagens/18.png</file>
+        <file>Imagens/15.png</file>
+        <file>Imagens/16.png</file>
+        <file>Imagens/Blueod (9).png</file>
+        <file>Imagens/Blueod (15).png</file>
+        <file>Imagens/Blueod (16).png</file>
+        <file>Imagens/icone.png</file>
+        <file>Imagens/oie_transparent (5).png</file>
+        <file>Imagens/oie_transparent (6).png</file>
+        <file>Imagens/oie_transparent.png</file>
+    </qresource>
+</RCC>
